@@ -1,5 +1,5 @@
 
-const httpGet = () => console.log("Hello GET")
+const httpGet = () => "Hello GET"
 
 export default {
     httpGet
